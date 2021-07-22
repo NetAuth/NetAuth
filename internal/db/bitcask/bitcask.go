@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/go-hclog"
-	"github.com/prologic/bitcask"
+	"git.mills.io/prologic/bitcask"
 	"github.com/spf13/viper"
 
 	"github.com/netauth/netauth/internal/db"

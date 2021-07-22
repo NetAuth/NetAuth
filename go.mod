@@ -26,7 +26,7 @@ require (
 	github.com/hashicorp/go-plugin v1.0.1
 	github.com/jmhodges/levigo v1.0.0 // indirect
 	github.com/netauth/protocol v0.0.0-20210308093302-0e6e0dd6dfb2
-	github.com/prologic/bitcask v0.3.10
+	git.mills.io/prologic/bitcask v0.3.10
 	github.com/remyoudompheng/bigfft v0.0.0-20190321074620-2f0d2b0e0001 // indirect
 	github.com/spf13/cobra v0.0.7
 	github.com/spf13/pflag v1.0.5
